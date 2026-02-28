@@ -1,0 +1,10 @@
+#btn1{
+    border-radius: 50px;
+    background-color: lightblue;
+    outline: none;
+
+}
+body{
+    background-color: lightblue;
+    font-family: "Comic Sans MS";
+}
