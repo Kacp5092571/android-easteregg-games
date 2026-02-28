@@ -1,7 +1,7 @@
 let hourr = 0
 function clockgo(){
         hourr = hourr + 15;
-        document.getElementById("hi").style.transform = `rotation(${hourr})`;
+        document.getElementById("imgclock").style.transform = `rotate(${hourr})`;
     if (hourr === 90){
 document.getElementById("htmlbodywow").style.backgroundColor = "skyblue"
     }
